@@ -7,7 +7,7 @@ This script appends some CSS that will hide those pieces of LinkedIn's website.
 # Installation
 
 * Step 1: Use [Firefox](https://www.mozilla.org/en-US/firefox/new/).
-* Step 1: install the [Greasemonkey addon](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) for Firefox.
-* Step 2: install [linkedin_decrease_attention_theft.user.js](https://github.com/lshillman/UserScripts/raw/main/LinkedIn:%20Decrease%20Attention%20Theft/linkedin_decrease_attention_theft.user.js). If you've installed Greasemonkey, all you should have to do is click the link, and Greasemonkey will prompt you to install.
+* Step 2: install the [Greasemonkey addon](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) for Firefox.
+* Step 3: install [linkedin_decrease_attention_theft.user.js](https://github.com/lshillman/UserScripts/raw/main/LinkedIn:%20Decrease%20Attention%20Theft/linkedin_decrease_attention_theft.user.js). If you've installed Greasemonkey, all you should have to do is click the link, and Greasemonkey will prompt you to install.
 
 That's it!
