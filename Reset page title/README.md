@@ -6,7 +6,7 @@ I originaly wrote this for concertina.net, but you can use it for any site that 
 
 # Installation
 
-* Step 1: install the [Greasemonkey addon](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) for Firefox.
+* Step 1: install the [Greasemonkey addon](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) for Firefox or [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) for Chrome.
 * Step 2: install [reset_page_title.user.js](https://github.com/lshillman/UserScripts/raw/main/Reset%20page%20title/reset_page_title.user.js). If you've installed Greasemonkey, all you should have to do is click the link, and Greasemonkey will prompt you to install.
 
 That's it!
