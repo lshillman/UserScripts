@@ -9,6 +9,6 @@ This script hides the following pieces of the Gemini ui on Google Docs, which se
 # Installation
 
 * Step 1: install the [Greasemonkey addon](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) for Firefox or [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) for Chrome.
-* Step 2: install [gmail_hide_gemini.user.js](https://github.com/lshillman/UserScripts/raw/main/Google%20Docs%20-%20hide%20gemini/gdocs_hide_gemini.user.js). If you've installed Greasemonkey, all you should have to do is click the link, and Greasemonkey will prompt you to install.
+* Step 2: install [gdocs_hide_gemini.user.js](https://github.com/lshillman/UserScripts/raw/refs/heads/main/Google%20Docs:%20hide%20gemini/gdocs_hide_gemini.user.js). If you've installed Greasemonkey, all you should have to do is click the link, and Greasemonkey will prompt you to install.
 
 That's it!
