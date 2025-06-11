@@ -1,20 +1,18 @@
 // ==UserScript==
-// @name     Google Docs: Hide Gemini features
-// @version  1
+// @name     Google Docs: Hide Gemini
+// @version  2
 // @match    https://docs.google.com/*
 // @grant    none
 // ==/UserScript==
 
 const style = `
-    .docs-titlebar-buttons div:has(> span):has(button[aria-label="Ask Gemini"]) {
-        display: none !important;
-    }
-    
-    .docs-instant-docos-content div div[data-tooltip="Help me write"] {
-        display: none !important;
-    }
-    
-    .ai-priority-menu-item {
+    div[aria-label="Refine"],
+	div[aria-label="Help me write"],
+	.docs-titlebar-buttons div:has(> span):has(button[aria-label="Ask Gemini"]),
+    .docs-instant-docos-content div div[data-tooltip="Help me write"],
+    .ai-priority-menu-item,
+    .goog-menuitem:has(div[class*='-ai-']),
+    .goog-menuitem:has(div[class*='-ai-'])+.apps-hoverable-menu-separator-container {
         display: none !important;
     }
 `;
