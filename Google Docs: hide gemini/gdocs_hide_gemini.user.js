@@ -7,8 +7,8 @@
 
 const style = `
     div[aria-label="Refine"],
-	div[aria-label="Help me write"],
-	.docs-titlebar-buttons div:has(> span):has(button[aria-label="Ask Gemini"]),
+    div[aria-label="Help me write"],
+    .docs-titlebar-buttons div:has(> span):has(button[aria-label="Ask Gemini"]),
     .docs-instant-docos-content div div[data-tooltip="Help me write"],
     .ai-priority-menu-item,
     .goog-menuitem:has(div[class*='-ai-']),
