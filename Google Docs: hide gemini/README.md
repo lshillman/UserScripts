@@ -1,10 +1,11 @@
-# Google Docs: Hide "Gemini" features
-Okay this AI bs is getting ridiculous. I disable all the "smart" features, but the UI is still there, waiting for me to accidentally click on it so it can prompt me to re-enable it. I hate it.
+# Google Docs: Hide Gemini
+This AI bs is getting ridiculous. I disable all the "smart" features, but the UI bits are is still there, waiting for me to accidentally click on them so they can prompt me to re-enable it. It's annoying and I hate it.
 
 This script hides the following pieces of the Gemini ui on Google Docs, which seems like everything at the time of writing, though I can't guarantee I haven't missed something:
 * gemini button in top nav
 * "help me write" context menu item
 * "help me write" sidebar button
+* Inline "refine" button that pops up whenever you select text
 
 # Installation
 
