@@ -1,4 +1,4 @@
-# Google Docs: Hide Gemini
+# Google Meet: Hide Gemini
 This AI bs is getting ridiculous. I disable all the "smart" features, but the UI bits are is still there, waiting for my cursor to accidentally stray into them so they can prompt me to re-enable it. It's annoying and I hate it.
 
 This script uses CSS to hide the Gemini buttons on Google Meet, which (at time of writing) also prevents their popovers from being triggered.
